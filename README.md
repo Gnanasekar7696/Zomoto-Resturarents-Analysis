@@ -18,7 +18,7 @@ What is the distribution of restaurant price ranges?
 
 The results are visualized in Power BI dashboards for easy interpretation.
 
-** Dataset**
+**Dataset**
 
 The dataset contains information about restaurants listed on Zomato, including:
 
